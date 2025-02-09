@@ -1,3 +1,3 @@
 # Charizard24
-<img src="charizard24.jpg" alt="Charizard24 > Blastoise42" width="600"/>
+<img src="charizard24.jpg" alt="Charizard24 > Blastoise42" width="400"/>
 
